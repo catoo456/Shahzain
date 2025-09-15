@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "autoreact",
-  version: "1.1.1",
+  version: "1.1.1"
   hasPermission: 0,
   credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "Bot React",
